@@ -1,5 +1,7 @@
 tr
 	{mso-height-source:auto;}
+tbody tr:nth-child(even)
+	{background-color: lightcyan;}
 col
 	{mso-width-source:auto;}
 br
