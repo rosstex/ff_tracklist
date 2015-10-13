@@ -4,6 +4,8 @@ col
 	{mso-width-source:auto;}
 br
 	{mso-data-placement:same-cell;}
+tbody tr:nth-child(even)
+	{background-color: lightcyan;}
 .style0
 	{mso-number-format:General;
 	text-align:general;
